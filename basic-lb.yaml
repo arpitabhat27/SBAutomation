@@ -24,6 +24,10 @@ parameters:
   name: port
   type: tcp-port
 
+ - 
+  name: svc-type
+  type: string
+
 components:
  -
   name: my-lb-comp
