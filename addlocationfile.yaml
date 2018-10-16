@@ -1,0 +1,25 @@
+name: addlocationfile
+namespace: com.citrix.adc.stylebooks
+version: "1.1"
+display-name: StyleBook to add locationfile
+schema-version: "1.0"
+import-stylebooks:
+  -
+    namespace: netscaler.nitro.config
+    version: "10.5"
+    prefix: ns
+parameters:
+ -
+        name: dbfile
+        label: Geo Database File
+        default: /var/netscaler/inbuilt_db/Citrix_Netscaler_InBuilt_GeoIP_DB.csv
+        description: LocationFile for the STATICPROXIMITY GLB method. Make sure specified dbfile is copied to all the GLB instances to the specified path.
+        type: string
+
+components:
+ -
+        name: locationfile-comp
+        type: ns::locationfile
+        description: Adding LocationFile for the GSLB feature
+        properties:
+            Locationfile: $parameters.dbfile
