@@ -1,11 +1,11 @@
 --- 
 name: object-test
 namespace: com.examples.sb
-#version: "1.0"
+version: "1.0"
 display-name: "Object Component with Nested Components"
 description: "This stylebook defines a typical Load Balanced Application configuration."
 schema-version: "1.0"
-import-stylebooks: 
+   import-stylebooks: 
   - 
     namespace: netscaler.nitro.config
     prefix: ns
