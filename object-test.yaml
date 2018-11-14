@@ -2,7 +2,7 @@
 name: object-test
 namespace: com.examples.sb
 version: "1.0"
-display-name: "Object Component with Nested Components"
+display-name: "Object Component with Nested Components version1.0"
 description: "This stylebook defines a typical Load Balanced Application configuration."
 schema-version: "1.0"
 import-stylebooks: 
