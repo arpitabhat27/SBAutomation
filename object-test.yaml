@@ -34,11 +34,3 @@ components:
               #name: $parent.parent.properties.name + "-server"
               ipaddress: 12.221.11.23
 #editing lb-app-b
-#editing lb-app-b
-#editing lb-app-b
-#editing lb-app-b
-#editing lb-app-b
-#editing lb-app-b
-#editing lb-app-b
-#editing lb-app-b
-#editing lb-app-b
