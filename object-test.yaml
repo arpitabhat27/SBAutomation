@@ -33,4 +33,3 @@ components:
               name: lb11-server
               #name: $parent.parent.properties.name + "-server"
               ipaddress: 12.221.11.23
-#editing 1542615957.0
