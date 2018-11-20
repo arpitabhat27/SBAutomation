@@ -1,0 +1,1 @@
+111.18.27.:Create configpack using a Stylebook downloaded from Github repo. Remove the repo from MAS:FAILED
