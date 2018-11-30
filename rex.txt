@@ -1,9 +1,0 @@
-111.18.27.:Create configpack using a Stylebook downloaded from Github repo. Remove the repo from MAS:FAILED
-111.18.27.:Create configpack using a Stylebook downloaded from Github repo. Remove the repo from MAS:FAILED
-111.18.27.5:Verify if an Updated Stylebook can be synced to MAS:PASSED
-111.18.27.6:Verify if a stylebook which is deleted from a repository is removed from MAS on sync:PASSED
-111.18.27.7:Verify if a stylebook which is newly added in a repository is imported to MAS on sync:FAILED
-111.18.27.10:Create configpack using a Stylebook downloaded from Github repo. Remove the repo from MAS:FAILED
-111.18.27.11:Create configpack using a Stylebook downloaded from Github repo. Update that Stylebook in Github:FAILED
-111.18.27.5:Verify if an Updated Stylebook can be synced to MAS:FAILED
-111.18.27.5:Verify if an Updated Stylebook can be synced to MAS:FAILED
