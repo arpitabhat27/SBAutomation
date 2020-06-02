@@ -36,14 +36,12 @@ parameters:
     label: "Authentication Vserver Virtual Port"
     description: "TCP port representing the Authentication Vserver"
     type: tcp-port
-    default: 443
     required: true
   - 
     name: auth-service-type
     label: "Authentication vserver Protocol"
     description: "Protocol used for the Authentication vserver"
-    type: string
-    default: SSL    
+    type: string  
     required: true
   
   -
