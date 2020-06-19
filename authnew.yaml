@@ -41,8 +41,7 @@ parameters:
     name: auth-service-type
     label: "Authentication vserver Protocol"
     description: "Protocol used for the Authentication vserver"
-    type: string
-    default: SSL    
+    type: string   
     required: true
   
   -
