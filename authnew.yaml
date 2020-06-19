@@ -42,7 +42,6 @@ parameters:
     label: "Authentication vserver Protocol"
     description: "Protocol used for the Authentication vserver"
     type: string
-    default: SSL    
     required: true
   
   -
