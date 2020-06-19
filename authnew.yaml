@@ -34,7 +34,7 @@ parameters:
   - 
     name: auth-virtual-port
     label: "Authentication Vserver Virtual Port"
-    description: "TCP port representing the Authentication Vserver"
+    description: "TCP port representing the Authentication vserver"
     type: tcp-port
     required: true
   - 
