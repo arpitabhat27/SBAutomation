@@ -26,6 +26,13 @@ parameters:
     label: "List of Monitors"
     description: "List of Monitors to monitor Application Servers"
     type: cmtypes::monitor[]
+    
+  -
+    name: monitors22
+    label: "List of Monitors"
+    description: "List of Monitors to monitor Application Servers"
+    type: cmtypes::monitor[]
+    
 substitutions:
   mon-name(appname, monname): $appname + "-mon-" + $monname
 components: 
