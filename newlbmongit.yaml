@@ -1,5 +1,5 @@
 --- 
-name: new-lb-mon-git
+name: newlbmongit
 namespace: com.citrix.adc.stylebooks.version1.1
 version: "1.2"
 description: "This stylebook defines a typical Load Balanced Application configuration with monitors."
