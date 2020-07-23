@@ -747,7 +747,7 @@ parameters:
                 name: trustedlearningclients
                 label: TrustedClients
                 description: "Trusted host/network learning IP. This binding is appilicable to profile Type: HTML, XML."
-                type: ipaddress
+                type: string
               -
                 name: comment
                 label: Comments
