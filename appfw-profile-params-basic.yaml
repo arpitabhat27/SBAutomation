@@ -265,6 +265,7 @@ parameters:
                   - FORMFIELD
                   - HEADER
                   - COOKIE
+                  - URL
               -
                 name: as-value-type-xss
                 description: Web form value type
