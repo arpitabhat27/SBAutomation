@@ -27,6 +27,12 @@ parameters:
     description: "List of Monitors to monitor Application Servers"
     type: cmtypes::monitor[]
     
+  -
+    name: monitors2
+    label: "List of Monitor"
+    description: "List of Monitors to monitor Application Servers"
+    type: cmtypes::monitor[]
+    
   
     
 substitutions:
