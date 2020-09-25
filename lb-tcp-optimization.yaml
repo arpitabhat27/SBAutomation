@@ -131,7 +131,7 @@ components:
   -
  
     name: tcpprofile-config-comp
-    type: stlb::tcp-profile
+    type: stlb::tcpprofile-root
     properties-default-sources:
       - $parameters
  
