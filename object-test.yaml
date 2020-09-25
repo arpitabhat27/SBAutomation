@@ -10,6 +10,12 @@ import-stylebooks:
     namespace: netscaler.nitro.config
     prefix: ns
     version: "10.5"
+    
+parameters:
+ - 
+   name: newparam
+   type: string
+   
 components: 
   - 
     name: lbvserver-comp
