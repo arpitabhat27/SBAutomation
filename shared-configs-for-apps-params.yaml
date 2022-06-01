@@ -11,10 +11,7 @@ import-stylebooks:
     namespace: com.citrix.adc.commontypes
     prefix: cmtypes
     version: "1.0"
-  - 
-    namespace: neustar.citrix.adc.commontypes
-    prefix: neustar
-    version: "3.9"
+ 
 parameters:
   -
     name: shared-app-configs
